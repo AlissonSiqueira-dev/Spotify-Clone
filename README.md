@@ -5,3 +5,4 @@ The main features are: navigation , consumption of an API for artist name and im
 Technologies used:
 HTML, CSS and JavaScript
  
+<img src="src/assets/icons/spotify.jpg">
